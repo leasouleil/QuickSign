@@ -3,6 +3,13 @@ __pycache__/
 *.pyc
 .env
 sample_files/
+sample_files/output/*
+!sample_files/output/.gitkeep
+
+sample_files/rendered/
+sample_files/processed_*.png
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]

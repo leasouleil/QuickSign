@@ -8,7 +8,7 @@ sample_files/output/*
 
 sample_files/rendered/
 sample_files/processed_*.png
-
+sample_files/coordinate_test.pdf
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
